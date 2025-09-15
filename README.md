@@ -88,3 +88,17 @@ ssh -i azure-tf-server azureadmin@<THE IP ADDRESS OF THE VM>
 - Deploy a React or Angular frontend to the same VM configured so that it can talk to backend
 - Screenshot the various parts of your stack in action and post the results here
 
+## Results
+I deployed a spring app with a react frontend to the vm.
+
+![frontend](assets/frontend-on-azure-using-api.png)
+
+![frontend](assets/frontend-detailview.png)
+
+![api](assets/api-endpoint-on-vm.png)
+
+![api](assets/another-api-endpoint-on-vm.png)
+
+![insomnia](assets/insomnia-openapi.png)
+
+![insomnia](assets/azure.png)
